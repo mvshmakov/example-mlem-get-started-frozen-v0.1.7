@@ -1,0 +1,22 @@
+artifacts:
+  data:
+    hash: 4c9b2deb4d6c5cfa212276f751da15ab
+    size: 209
+    uri: test_y.csv
+object_type: dataset
+reader:
+  dataset_type:
+    columns:
+    - ''
+    - target
+    dtypes:
+    - int64
+    - int64
+    index_cols:
+    - ''
+    type: dataframe
+  format: csv
+  type: pandas
+requirements:
+- module: pandas
+  version: 1.4.2
