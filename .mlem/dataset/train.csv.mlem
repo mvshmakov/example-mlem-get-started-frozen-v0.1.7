@@ -2,6 +2,7 @@ artifacts:
   data:
     hash: add43029d2b464d0884a7d3105ef0652
     size: 2459
+    type: dvc
     uri: train.csv
 object_type: dataset
 reader:

@@ -2,6 +2,7 @@ artifacts:
   data:
     hash: b759beae892da6fdf8c933106f848dc6
     size: 161420
+    type: dvc
     uri: rf
 description: Random Forest Classifier
 model_type:

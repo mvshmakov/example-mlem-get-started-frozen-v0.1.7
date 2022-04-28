@@ -2,6 +2,7 @@ artifacts:
   data:
     hash: 976d9bc4415c8cc1fcca84795d952f6f
     size: 804
+    type: dvc
     uri: test_x.csv
 object_type: dataset
 reader:
