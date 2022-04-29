@@ -1,0 +1,21 @@
+external-ml-model:
+  description: Some model from s3. Looks interesting
+  labels:
+  - ml
+  - s3
+  path: s3://some/path/existing/for/sure
+  type: model
+ml-model:
+  description: Some model! Random forest is a tree-based ML model. It averages many
+    trees to get right prediction - always better than a prediction from a single
+    tree.
+  labels:
+  - ml
+  - rf
+  - iterative
+  path: .mlem/model/rf
+  type: model
+training-data:
+  description: Dataset used for training. Voila
+  path: .mlem/dataset/train.csv
+  type: dataset
