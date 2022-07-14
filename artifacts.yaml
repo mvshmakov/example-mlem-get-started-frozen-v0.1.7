@@ -1,0 +1,5 @@
+test-model:
+  labels:
+  - ''
+  path: s3://sdvsadv/aasdvasdvsd
+  type: model
