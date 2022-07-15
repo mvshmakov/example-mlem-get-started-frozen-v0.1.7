@@ -1,0 +1,5 @@
+tester:
+  labels:
+  - ''
+  path: s3://sdvsvsbsdfbdb
+  type: model
