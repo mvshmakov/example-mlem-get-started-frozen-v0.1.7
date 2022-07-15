@@ -20,6 +20,11 @@ sdsdvsdvsd:
   - ''
   path: sdcsdcsd
   type: model
+tessste-model:
+  labels:
+  - ''
+  path: s3://sdfbsdbsdsgdndfgn
+  type: model
 training-data:
   description: Dataset used for training. Voila
   path: .mlem/dataset/train.csv
