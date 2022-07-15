@@ -15,6 +15,11 @@ ml-model:
   - iterative
   path: .mlem/model/rf
   type: model
+pap:
+  labels:
+  - ''
+  path: s3://svdfbsdbf
+  type: model
 sdsdvsdvsd:
   labels:
   - ''
