@@ -15,6 +15,11 @@ ml-model:
   - iterative
   path: .mlem/model/rf
   type: model
+sdsdvsdvsd:
+  labels:
+  - ''
+  path: sdcsdcsd
+  type: model
 training-data:
   description: Dataset used for training. Voila
   path: .mlem/dataset/train.csv
