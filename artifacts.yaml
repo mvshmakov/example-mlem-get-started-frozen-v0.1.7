@@ -30,6 +30,11 @@ sssssssssss:
   - ''
   path: sssssssssss
   type: model
+testdcvjasdv:
+  labels:
+  - ''
+  path: asdvasdvasdvasdv
+  type: model
 training-data:
   description: Dataset used for training. Voila
   path: .mlem/dataset/train.csv
