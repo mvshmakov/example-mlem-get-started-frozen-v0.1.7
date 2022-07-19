@@ -1,3 +1,10 @@
+final-test:
+  description: Fill in the optional description of the model
+  labels:
+  - first-label
+  - second-one
+  path: final-test
+  type: model
 test-model:
   labels:
   - ''
