@@ -1,3 +1,8 @@
+asdvsdvsd:
+  labels:
+  - ''
+  path: asdvasdvasd
+  type: model
 external-ml-model:
   description: Some model from s3. Looks interesting
   labels:
